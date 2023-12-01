@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Moinuddin Shaik</h1>
 <h3 align="center">Just Another Coder's Space</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="coding" width="300" src="https://github.com/CodeWithMoin/CodeWithMoin/blob/main/Coding.png">
 
 
 
