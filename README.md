@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C, Python**
 
-- ⚡ Crazy fact **Apart from this, I'm a polished Video Editor!**
+- ⚡ Crazy fact: **Apart from this, I'm a polished Video Editor!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
