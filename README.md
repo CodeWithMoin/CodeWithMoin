@@ -7,9 +7,9 @@
 
 
 
-- 🌱 I’m currently learning **Java, Node JS, HTML, CSS**
+- 🌱 I’m currently learning **NLP, CNN, LLM, & Deep Learning**
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about **C, Python, Java, ML**
 
 - ⚡ Crazy fact: **Apart from this, I'm a polished Video Editor!**
 
