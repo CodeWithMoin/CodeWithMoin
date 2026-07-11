@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1420"/>
+      <stop offset="1" stop-color="#0a0e14"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="220" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="859" height="219" rx="12" fill="none" stroke="#1f6feb" stroke-opacity="0.55"/>
+  <line x1="0" y1="30" x2="860" y2="30" stroke="#1f6feb" stroke-opacity="0.35"/>
+  <circle cx="22" cy="15" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="15" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="15" r="5" fill="#27c93f"/>
+  <text x="430" y="19" fill="#7d8590" font-size="12" text-anchor="middle">codewithmoin@github: ~/contributions --graph</text>
+  <text x="430" y="104" fill="#e6edf3" font-size="18" font-weight="700" text-anchor="middle">Contribution graph updates from GitHub Actions</text>
+  <text x="430" y="132" fill="#7d8590" font-size="13" text-anchor="middle">Run the Update profile art workflow once after pushing this repo.</text>
+  <text x="430" y="158" fill="#39d353" font-size="13" text-anchor="middle">The generated graph will replace this placeholder with live public GitHub activity.</text>
+</svg>
