@@ -1,65 +1,47 @@
 <div align="center">
 
-<img src="./portrait.png" width="180" alt="Black-and-white portrait of Moinuddin Shaik" />
+<img src="./portrait.png" width="160" alt="Black-and-white portrait of Moinuddin Shaik" />
 
 # Moinuddin Shaik
 
-**Applied Scientist · AI Engineer · Agentic AI**
+**Applied Scientist · AI Engineer**
 
-I build reliable AI systems that turn language, documents, and images into useful products.
+Building grounded LLM systems, retrieval infrastructure, and practical machine-learning products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithmoin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmoin/)
 [![DocuLens Live](https://img.shields.io/badge/Live-DocuLens_AI-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://doculens-ai.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeWithMoin?tab=repositories)
 
 </div>
 
 ## About
 
-I'm a Computer Science (AI/ML) graduate working across the full AI product stack—from data and evaluation to retrieval infrastructure, APIs, and user-facing applications. My focus is on **LLM systems, NLP, document intelligence, and resource-aware machine learning**.
+I'm a Computer Science (AI/ML) graduate working across the AI product stack—from data and evaluation to APIs, retrieval, and user-facing applications. I care about systems that are measurable, citation-aware, and useful beyond the demo.
 
-I care about building systems that are grounded, measurable, and operable: citations instead of unsupported answers, evaluation instead of intuition, and production behavior instead of demo-only success.
+## Selected work
 
-## Featured projects
+### [DocuLens AI](https://github.com/CodeWithMoin/doculens-ai) · [Live showcase](https://doculens-ai.pages.dev/)
 
-| Project | What it does | Core engineering |
-| --- | --- | --- |
-| **[DocuLens AI](https://github.com/CodeWithMoin/doculens-ai)** · [Live showcase](https://doculens-ai.pages.dev/) | Turns unstructured business documents into searchable, cited knowledge through classification, summarization, semantic search, and grounded Q&A. | FastAPI, React, Celery, PostgreSQL, pgvector, Redis, Docling, RAG evaluation |
-| **[EcoGuardian AI](https://github.com/CodeWithMoin/EcoGuardian-AI)** | Mobile foundation for AI-assisted waste sorting, designed around offline TensorFlow Lite inference and an engaging camera-first experience. | React Native, Expo, TypeScript, TensorFlow Lite, Appwrite |
-| **[Freehand Equation Solver](https://github.com/CodeWithMoin/FreehandEquationSolver)** | Recognizes handwritten digits and operators, segments freehand expressions, and solves the resulting arithmetic. | PyTorch, OpenCV, CNNs, computer vision |
-| **[DatasetOptimizer](https://github.com/CodeWithMoin/DatasetOptimizer)** | Prepares image datasets through batch resizing, format conversion, compression, and configurable transformations. | Python, Pillow, OpenCV, NumPy, scikit-image |
+Document intelligence for classification, summarization, semantic search, and grounded Q&A with source citations.
 
-[Explore all repositories →](https://github.com/CodeWithMoin?tab=repositories)
+`FastAPI` · `React` · `Celery` · `PostgreSQL` · `pgvector` · `Redis` · `Docling`
 
-## What I build
+### [EcoGuardian AI](https://github.com/CodeWithMoin/EcoGuardian-AI)
 
-- **LLM and agentic systems** for taxonomy generation, information extraction, structured outputs, and document workflows.
-- **Retrieval systems** with layout-aware ingestion, metadata filtering, vector search, grounded generation, and measurable Recall@K/MRR.
-- **Production AI backends** with typed contracts, asynchronous jobs, provider abstractions, observability, and deployment safeguards.
-- **On-device ML experiences** where model size, latency, offline behavior, and product UX matter as much as accuracy.
+A camera-first mobile foundation for AI-assisted waste sorting, designed around offline TensorFlow Lite inference.
 
-## Experience highlights
+`React Native` · `Expo` · `TypeScript` · `TensorFlow Lite` · `Appwrite`
 
-- **Amazon RBS Sciences** — built autonomous LLM-powered taxonomy generation workflows for customer-feedback analysis, including self-calibrating extraction and explainable evaluation.
-- **Intel Unnati** — developed a real-time video sharpening pipeline using knowledge distillation for lower-resource edge deployment.
-- **Independent engineering** — taking AI ideas from notebooks to documented, tested, deployable products with real interfaces and explicit tradeoffs.
+### [Freehand Equation Solver](https://github.com/CodeWithMoin/FreehandEquationSolver)
 
-## Toolbox
+A PyTorch and OpenCV pipeline that recognizes handwritten digits and operators, segments expressions, and solves them.
 
-**Languages** — `Python` · `SQL` · `TypeScript` · `C++` · `Java`  
-**AI / ML** — `PyTorch` · `TensorFlow` · `Transformers` · `Scikit-learn` · `BERTopic`  
-**LLM systems** — `RAG` · `LLM evaluation` · `OpenAI API` · `Amazon Bedrock` · `Structured outputs`  
-**Backend / data** — `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Celery`  
-**Platform** — `Docker` · `AWS` · `GCP` · `GitHub Actions`
+`PyTorch` · `OpenCV` · `CNNs` · `Computer Vision`
 
----
+## Experience
 
-<div align="center">
+- **Amazon RBS Sciences** — built autonomous LLM-powered taxonomy generation workflows for customer-feedback analysis.
+- **Intel Unnati** — developed a knowledge-distilled video sharpening pipeline for lower-resource edge deployment.
 
-### Build useful things. Measure what matters.
+## Tools
 
-I'm always interested in thoughtful conversations about applied AI, retrieval, agent workflows, and ML product engineering.
-
-[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/codewithmoin/)
-
-</div>
+`Python` · `SQL` · `TypeScript` · `PyTorch` · `TensorFlow` · `Transformers` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Docker` · `AWS` · `GCP`
