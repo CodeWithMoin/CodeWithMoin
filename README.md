@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./portrait.png" width="160" alt="Black-and-white portrait of Moinuddin Shaik" />
-
 # Moinuddin Shaik
 
 **Applied Scientist · AI Engineer**
