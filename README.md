@@ -2,10 +2,13 @@
 
 # Moinuddin Shaik
 
-**Applied Scientist · AI Engineer**
+**Applied Scientist · AI/ML Engineer**
 
-Building grounded LLM systems, retrieval infrastructure, and practical machine-learning products.
+`Machine Learning` · `Deep Learning` · `LLM Systems` · `NLP` · `RAG` · `Computer Vision`
 
+I build and evaluate intelligent systems—from model experiments to production AI pipelines.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-smoin.pages.dev-0F172A?style=flat-square&logo=cloudflare&logoColor=white)](https://smoin.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithmoin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmoin/)
 [![DocuLens Live](https://img.shields.io/badge/Live-DocuLens_AI-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://doculens-ai.pages.dev/)
 
@@ -13,7 +16,15 @@ Building grounded LLM systems, retrieval infrastructure, and practical machine-l
 
 ## About
 
-I'm a Computer Science (AI/ML) graduate working across the AI product stack—from data and evaluation to APIs, retrieval, and user-facing applications. I care about systems that are measurable, citation-aware, and useful beyond the demo.
+I'm a Computer Science (AI/ML) graduate focused on machine learning, deep learning, large language models, and applied NLP. My work spans experimentation, evaluation, embeddings and clustering, retrieval, model inference, APIs, and deployment.
+
+I care about AI systems that are grounded, measurable, efficient, and useful beyond the demo.
+
+## Focus
+
+- **LLMs and NLP** — few-shot learning, prompt design, structured extraction, taxonomy generation, RAG, grounding, and evaluation.
+- **Machine and deep learning** — PyTorch, TensorFlow, transformers, embeddings, clustering, dimensionality reduction, and computer vision.
+- **Production AI** — scalable inference, model optimization, asynchronous pipelines, vector search, Docker, and cloud deployment.
 
 ## Selected work
 
@@ -27,7 +38,7 @@ Document intelligence for classification, summarization, semantic search, and gr
 
 A camera-first mobile foundation for AI-assisted waste sorting, designed around offline TensorFlow Lite inference.
 
-`React Native` · `Expo` · `TypeScript` · `TensorFlow Lite` · `Appwrite`
+`React Native` · `Expo` · `TensorFlow Lite` · `Computer Vision`
 
 ### [Indie AI](https://github.com/CodeWithMoin/Indie-ai)
 
@@ -37,9 +48,22 @@ An AI subtitle generator for Indian languages, combining Whisper transcription w
 
 ## Experience
 
-- **Amazon RBS Sciences** — built autonomous LLM-powered taxonomy generation workflows for customer-feedback analysis.
-- **Intel Unnati** — developed a knowledge-distilled video sharpening pipeline for lower-resource edge deployment.
+### Amazon RBS Sciences — Applied Scientist Intern
 
-## Tools
+- Developed self-service LLM workflows for knowledge extraction, hierarchical taxonomy generation, and data-grounded explanations over unstructured feedback.
+- Combined few-shot prompting with embeddings, UMAP, HDBSCAN, BERTopic, and LLM-driven hierarchy induction.
+- Optimized Amazon Bedrock inference and packaged the resulting pipeline for production deployment with Docker.
 
-`Python` · `SQL` · `TypeScript` · `PyTorch` · `TensorFlow` · `Transformers` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Docker` · `AWS` · `GCP`
+### Intel Unnati
+
+- Developed a knowledge-distilled deep-learning pipeline for real-time video sharpening on resource-constrained edge devices.
+
+## Research interests
+
+`LLM evaluation` · `Taxonomy quality` · `Hierarchical clustering` · `Robust classification` · `Efficient inference`
+
+## Stack
+
+**ML / Deep Learning** — `PyTorch` · `TensorFlow` · `Scikit-learn` · `Transformers` · `UMAP` · `HDBSCAN` · `BERTopic`  
+**LLM / NLP** — `Amazon Bedrock` · `OpenAI API` · `RAG` · `Embeddings` · `Few-shot learning` · `LLM evaluation`  
+**Engineering** — `Python` · `SQL` · `FastAPI` · `Celery` · `PostgreSQL` · `pgvector` · `Redis` · `Docker` · `AWS` · `GCP`
