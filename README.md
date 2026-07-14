@@ -29,11 +29,11 @@ A camera-first mobile foundation for AI-assisted waste sorting, designed around 
 
 `React Native` · `Expo` · `TypeScript` · `TensorFlow Lite` · `Appwrite`
 
-### [Freehand Equation Solver](https://github.com/CodeWithMoin/FreehandEquationSolver)
+### [Indie AI](https://github.com/CodeWithMoin/Indie-ai)
 
-A PyTorch and OpenCV pipeline that recognizes handwritten digits and operators, segments expressions, and solves them.
+An AI subtitle generator for Indian languages, combining Whisper transcription with AWS-powered translation.
 
-`PyTorch` · `OpenCV` · `CNNs` · `Computer Vision`
+`Python` · `Streamlit` · `Whisper` · `AWS Translate`
 
 ## Experience
 
