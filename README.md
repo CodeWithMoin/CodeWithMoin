@@ -1,48 +1,65 @@
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="./portrait.png" width="280" alt="Black-and-white portrait of Moinuddin Shaik" /></td>
-<td valign="top"><img src="./info-card.svg" width="466" alt="Experience, stack, and highlights" /></td>
-</tr>
-</table>
+<img src="./portrait.png" width="180" alt="Black-and-white portrait of Moinuddin Shaik" />
 
 # Moinuddin Shaik
 
 **Applied Scientist · AI Engineer · Agentic AI**
 
-Applied Scientist and Computer Science (AI/ML) graduate focused on LLM systems,
-NLP, retrieval infrastructure, and production-ready machine learning.
+I build reliable AI systems that turn language, documents, and images into useful products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithmoin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmoin/)
-
-<br>
-
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithmoin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmoin/)
+[![DocuLens Live](https://img.shields.io/badge/Live-DocuLens_AI-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://doculens-ai.pages.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeWithMoin?tab=repositories)
 
 </div>
 
-## What I Build
+## About
 
-- LLM-powered systems for taxonomy generation, information extraction, and document intelligence.
-- RAG pipelines with OpenAI embeddings, pgvector, Redis, PostgreSQL, and FastAPI.
-- On-device ML applications using TensorFlow Lite, PyTorch, and model optimization.
-- Applied AI products that move from prototype to measurable production behavior.
+I'm a Computer Science (AI/ML) graduate working across the full AI product stack—from data and evaluation to retrieval infrastructure, APIs, and user-facing applications. My focus is on **LLM systems, NLP, document intelligence, and resource-aware machine learning**.
 
-## Featured Work
+I care about building systems that are grounded, measurable, and operable: citations instead of unsupported answers, evaluation instead of intuition, and production behavior instead of demo-only success.
 
-**Amazon RBS Sciences**  
-Built autonomous LLM-powered taxonomy generation pipelines for customer feedback analysis, including self-calibrating information extraction and explainable taxonomy evaluation.
+## Featured projects
 
-**DocuLens AI**  
-Enterprise document intelligence platform for semantic search, summarization, classification, and Q&A over 10K+ unstructured documents.
+| Project | What it does | Core engineering |
+| --- | --- | --- |
+| **[DocuLens AI](https://github.com/CodeWithMoin/doculens-ai)** · [Live showcase](https://doculens-ai.pages.dev/) | Turns unstructured business documents into searchable, cited knowledge through classification, summarization, semantic search, and grounded Q&A. | FastAPI, React, Celery, PostgreSQL, pgvector, Redis, Docling, RAG evaluation |
+| **[EcoGuardian AI](https://github.com/CodeWithMoin/EcoGuardian-AI)** | Mobile foundation for AI-assisted waste sorting, designed around offline TensorFlow Lite inference and an engaging camera-first experience. | React Native, Expo, TypeScript, TensorFlow Lite, Appwrite |
+| **[Freehand Equation Solver](https://github.com/CodeWithMoin/FreehandEquationSolver)** | Recognizes handwritten digits and operators, segments freehand expressions, and solves the resulting arithmetic. | PyTorch, OpenCV, CNNs, computer vision |
+| **[DatasetOptimizer](https://github.com/CodeWithMoin/DatasetOptimizer)** | Prepares image datasets through batch resizing, format conversion, compression, and configurable transformations. | Python, Pillow, OpenCV, NumPy, scikit-image |
 
-**Intel Unnati - Edge Video ML**  
-Built a real-time video feed sharpening pipeline using knowledge distillation, improving edge clarity while reducing model size for low-resource deployment.
+[Explore all repositories →](https://github.com/CodeWithMoin?tab=repositories)
 
-## Stack
+## What I build
 
-`Python` · `SQL` · `C++` · `Java` · `TypeScript`  
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `Transformers` · `BERTopic`  
-`RAG` · `LLM Evaluation` · `Amazon Bedrock` · `OpenAI API`  
-`FastAPI` · `Docker` · `Redis` · `pgvector` · `AWS` · `GCP`
+- **LLM and agentic systems** for taxonomy generation, information extraction, structured outputs, and document workflows.
+- **Retrieval systems** with layout-aware ingestion, metadata filtering, vector search, grounded generation, and measurable Recall@K/MRR.
+- **Production AI backends** with typed contracts, asynchronous jobs, provider abstractions, observability, and deployment safeguards.
+- **On-device ML experiences** where model size, latency, offline behavior, and product UX matter as much as accuracy.
+
+## Experience highlights
+
+- **Amazon RBS Sciences** — built autonomous LLM-powered taxonomy generation workflows for customer-feedback analysis, including self-calibrating extraction and explainable evaluation.
+- **Intel Unnati** — developed a real-time video sharpening pipeline using knowledge distillation for lower-resource edge deployment.
+- **Independent engineering** — taking AI ideas from notebooks to documented, tested, deployable products with real interfaces and explicit tradeoffs.
+
+## Toolbox
+
+**Languages** — `Python` · `SQL` · `TypeScript` · `C++` · `Java`  
+**AI / ML** — `PyTorch` · `TensorFlow` · `Transformers` · `Scikit-learn` · `BERTopic`  
+**LLM systems** — `RAG` · `LLM evaluation` · `OpenAI API` · `Amazon Bedrock` · `Structured outputs`  
+**Backend / data** — `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Celery`  
+**Platform** — `Docker` · `AWS` · `GCP` · `GitHub Actions`
+
+---
+
+<div align="center">
+
+### Build useful things. Measure what matters.
+
+I'm always interested in thoughtful conversations about applied AI, retrieval, agent workflows, and ML product engineering.
+
+[**Connect with me on LinkedIn →**](https://www.linkedin.com/in/codewithmoin/)
+
+</div>
