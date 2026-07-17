@@ -1,22 +1,22 @@
 {
   "username": "CodeWithMoin",
-  "generated_at": "2026-07-16T05:19:35Z",
+  "generated_at": "2026-07-17T05:22:19Z",
   "range": {
     "start": "2025-07-13",
+    "end": "2026-07-17"
+  },
+  "total_contributions": 487,
+  "active_days": 43,
+  "avg_per_active_day": 11.3,
+  "current_streak": {
+    "length": 9,
+    "start": "2026-07-08",
     "end": "2026-07-16"
   },
-  "total_contributions": 471,
-  "active_days": 42,
-  "avg_per_active_day": 11.2,
-  "current_streak": {
-    "length": 8,
-    "start": "2026-07-08",
-    "end": "2026-07-15"
-  },
   "longest_streak": {
-    "length": 8,
-    "start": "2026-06-29",
-    "end": "2026-07-06"
+    "length": 9,
+    "start": "2026-07-08",
+    "end": "2026-07-16"
   },
   "best_day": {
     "date": "2025-09-10",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 197
+      "total": 213
     }
   ],
   "days": [
@@ -1551,6 +1551,10 @@
     },
     {
       "date": "2026-07-16",
+      "count": 16
+    },
+    {
+      "date": "2026-07-17",
       "count": 0
     }
   ]
