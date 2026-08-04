@@ -34,11 +34,11 @@ Document intelligence for classification, summarization, semantic search, and gr
 
 `FastAPI` · `React` · `Celery` · `PostgreSQL` · `pgvector` · `Redis` · `Docling`
 
-### [EcoGuardian AI](https://github.com/CodeWithMoin/EcoGuardian-AI)
+### [Attest](https://github.com/CodeWithMoin/attest)
 
-A camera-first mobile foundation for AI-assisted waste sorting, designed around offline TensorFlow Lite inference.
+An agentic research assistant that verifies its own citations, and a benchmark measuring what that verification costs. Checking cut unsupported citations from 9.87% to 4.15% across 41 questions, and cost 7.5 points of answer completeness. Evidence F1 0.473 on Qasper, an externally annotated set. Written up with the limitations that survived auditing my own claims against the code.
 
-`React Native` · `Expo` · `TensorFlow Lite` · `Computer Vision`
+`LangGraph` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `LLM-as-judge` · `RAG evaluation`
 
 ### [Indie AI](https://github.com/CodeWithMoin/Indie-ai)
 
