@@ -36,7 +36,7 @@ Document intelligence for classification, summarization, semantic search, and gr
 
 ### [Attest](https://github.com/CodeWithMoin/attest)
 
-An agentic research assistant that verifies its own citations, and a benchmark measuring what that verification costs. Checking cut unsupported citations from 9.87% to 4.15% across 41 questions, and cost 7.5 points of answer completeness. Evidence F1 0.473 on Qasper, an externally annotated set. Written up with the limitations that survived auditing my own claims against the code.
+An agentic research assistant that checks every claim against the paragraph it cites, benchmarked for what that checking costs.
 
 `LangGraph` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `LLM-as-judge` · `RAG evaluation`
 
