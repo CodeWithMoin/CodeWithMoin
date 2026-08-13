@@ -2,15 +2,14 @@
 
 # Moinuddin Shaik
 
-**Applied Scientist · AI/ML Engineer**
+**Former Applied Scientist Intern, Amazon**
 
 `Machine Learning` · `Deep Learning` · `LLM Systems` · `NLP` · `RAG` · `Computer Vision`
 
 I build and evaluate intelligent systems—from model experiments to production AI pipelines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-smoin.pages.dev-0F172A?style=flat-square&logo=cloudflare&logoColor=white)](https://smoin.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moinuddin.app-0F172A?style=flat-square&logo=cloudflare&logoColor=white)](https://moinuddin.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithmoin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithmoin/)
-[![DocuLens Live](https://img.shields.io/badge/Live-DocuLens_AI-2563EB?style=flat-square&logo=cloudflare&logoColor=white)](https://doculens-ai.pages.dev/)
 
 </div>
 
@@ -28,7 +27,11 @@ I care about AI systems that are grounded, measurable, efficient, and useful bey
 
 ## Selected work
 
-### [DocuLens AI](https://github.com/CodeWithMoin/doculens-ai) · [Live showcase](https://doculens-ai.pages.dev/)
+### [Decode](https://moinuddin.app/work/decode) — building now
+
+An AI-native production studio turning research papers and documentation into educational video, directed like a workspace rather than prompted like a chatbot. Eight departments coordinate through versioned artifacts, each running its own generate/evaluate/revise loop.
+
+### [DocuLens AI](https://github.com/CodeWithMoin/doculens-ai)
 
 Document intelligence for classification, summarization, semantic search, and grounded Q&A with source citations.
 
@@ -40,21 +43,21 @@ An agentic research assistant that checks every claim against the paragraph it c
 
 `LangGraph` · `FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `LLM-as-judge` · `RAG evaluation`
 
-### [Indie AI](https://github.com/CodeWithMoin/Indie-ai)
+### [EcoGuardian AI](https://github.com/CodeWithMoin/EcoGuardian-AI)
 
-An AI subtitle generator for Indian languages, combining Whisper transcription with AWS-powered translation.
+On-device waste classification for resource-constrained devices, built with React Native and TensorFlow Lite.
 
-`Python` · `Streamlit` · `Whisper` · `AWS Translate`
+`React Native` · `TensorFlow Lite` · `Computer Vision`
 
 ## Experience
 
-### Amazon RBS Sciences — Applied Scientist Intern
+### Amazon RBS Sciences — Applied Scientist Intern (Jan–Jun 2026)
 
 - Developed self-service LLM workflows for knowledge extraction, hierarchical taxonomy generation, and data-grounded explanations over unstructured feedback.
 - Combined few-shot prompting with embeddings, UMAP, HDBSCAN, BERTopic, and LLM-driven hierarchy induction.
 - Optimized Amazon Bedrock inference and packaged the resulting pipeline for production deployment with Docker.
 
-### Intel Unnati
+### Intel Unnati — AI Intern (May–Jul 2025)
 
 - Developed a knowledge-distilled deep-learning pipeline for real-time video sharpening on resource-constrained edge devices.
 
